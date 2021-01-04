@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![it's a me!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FOtto_Bedard&psig=AOvVaw0ifUOGA28bC-iU4iFOkqVu&ust=1609854511222000&source=images&cd=vfe&ved=2ahUKEwjE28LDtYLuAhXQClkFHdQgAMQQjRx6BAgAEAc)
